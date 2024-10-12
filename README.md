@@ -8,5 +8,7 @@ Welcome to my repository, where I share some projects focused on deep learning. 
    - **File**: `CNN_task_pipeline.ipynb`
    - **Description**: A comprehensive pipeline using Convolutional Neural Networks (CNNs) to classify images from the CIFAR100 dataset. This notebook covers the entire workflow, from data preprocessing and model building to training and evaluation.
 
-2. **Other Projects**  
+2. **Transformer for text classification and translation**
+
+3. **Other Projects**  
    Additional projects, including natural language processing, generative models, reinforcement learning, and more, will be added over time.
