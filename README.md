@@ -1,6 +1,6 @@
 # Deep Learning Projects
 
-Welcome to my repository, where I share some projects focused on deep learning. This collection showcases different implementations, models, and experiments that highlight a variety of techniques and applications in deep learning. My goal is to learn about the diversity of techniques involved in deep learning, exploring their applications and gaining hands-on experience through these projects.
+Welcome to my repository, where I share some projects focused on deep learning. This repo showcases different implementations, models, and experiments that highlight a variety of techniques and applications in deep learning. My goal is to learn about the diversity of techniques involved in deep learning, exploring their applications and gaining hands-on experience through these projects.
 
 ## Projects
 
