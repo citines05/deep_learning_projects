@@ -9,7 +9,7 @@ Welcome to my repository, where I share some projects focused on deep learning. 
    - **Description**: a comprehensive pipeline using Convolutional Neural Networks (CNNs) to classify images from the CIFAR100 dataset. This notebook covers the entire workflow, from data preprocessing and model building to training and evaluation.
 
 2. **Transformer for text classification and translation**
-   - **File**: `Deep_learning_for_text.ipynb`
+   - **File**: `Transformers_for_text.ipynb`
    - **Description**: an NLP pipeline for text classification (using IMDB movie reviews dataset) and language translation (using English-to-Spanish dataset). This notebook focus on understanding of Transformer architecture introduced in 2017.
 
 3. **Other Projects**  
