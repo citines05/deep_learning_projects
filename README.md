@@ -13,8 +13,8 @@ Welcome to my repository, where I share some projects focused on deep learning. 
    - **Description**: a NLP pipeline for text classification (using IMDB movie reviews dataset) and language translation (using English-to-Spanish dataset). This notebook focus on understanding of Transformer architecture introduced in 2017.
   
 3. **Arrhytmia detection using Vision Transformer**
-   -**File**: `Arrhyt_class_VIT.ipynb`
-   -**Description**: an image classification pipeline based on Vision Transformer (ViT) for detecting arrhythmias from electrocardiogram signals converted into images.
+   - **File**: `Arrhyt_class_VIT.ipynb`
+   - **Description**: an image classification pipeline based on Vision Transformer (ViT) for detecting arrhythmias from electrocardiogram signals converted into images.
 
 4. **Other Projects**  
    Additional projects will be added over time.
